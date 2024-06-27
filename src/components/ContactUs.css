@@ -1,0 +1,52 @@
+.contact-us {
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  .contact-form {
+    background-color: green;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form button {
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact-details {
+    background-color: red;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-details h2 {
+    color: white;
+  }
+  
+  .map {
+    background-color: green;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
